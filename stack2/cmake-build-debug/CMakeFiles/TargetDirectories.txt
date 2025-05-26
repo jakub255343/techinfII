@@ -1,0 +1,3 @@
+C:/Users/student/Desktop/lista/cmake-build-debug/CMakeFiles/listaWP.dir
+C:/Users/student/Desktop/lista/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/student/Desktop/lista/cmake-build-debug/CMakeFiles/rebuild_cache.dir
